@@ -1,0 +1,30 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+10,"JzAxis1,Jy1Axis1,JxAxis1,Jy2Axis1,JAxisA1",ASSMANN_A-2004-2-4-LPS-N-R,5,A-2004-2-4-LPS-N-R,@home
+7,"C11,C13,C8,C3,C4,C14,C1,C6,C10,C9,C12,C5,C7",C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,13,C,@home
+24,C21,C_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1,100n,@home
+22,C20,CP_Elec_8x10,1,C_Polarized,https://www.digikey.at/en/products/detail/würth-elektronik/865060653010/5728145
+11,"D4,D5,D7,D6,D3",D_0805_2012Metric_Pad1.15x1.40mm_HandSolder,5,LED,@home
+3,D1,D_SOD-323_HandSoldering,1,D_Zener,https://www.digikey.at/en/products/detail/nexperia-usa-inc/BZX384-C12-115/1155743
+14,"L1,L2",IND_S-126-R_RCP,2,L,https://www.digikey.at/en/products/detail/recom-power/RLS-126-R/9920835?s=N4IgTCBcDaIEoBkDKBaAjGAbCuIC6AvkA
+18,"C2,C15,C19,C17,C16,C18",L_1210_3225Metric_Pad1.42x2.65mm_HandSolder,6,10uF 100V MCC,https://www.digikey.at/en/products/detail/murata-electronics/GRM32EC72A106KE05L/7319245
+17,TB1,MODULE_STM32F4DISCOVERY,1,STM32F4DISCOVERY,@home
+16,"H3,H2,H1,H4",MountingHole_2.5mm,4,MountingHole,-
+29,D2,Nexperia_CFP3_SOD-123W,1,D_Zener,
+4,"J9_GPIO1,JI2C1,J10_GPIO1,J9_GPIO2",PinHeader_1x02_P2.54mm_Vertical,4,Conn_01x02,
+12,"J4,J7",PinHeader_1x02_P2.54mm_Vertical,2,Conn_01x02_Pin,
+19,J11_SPI1,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
+23,"JlimA1,JlimX1,JlimY2,JlimZ1,JProbe1,JlimY1,JGpio1",PinHeader_1x03_P2.54mm_Vertical,7,Conn_01x03_Pin,
+8,"J5,J2,J3,J6,JPvMaffel1",PinHeader_1x04_P2.54mm_Vertical,5,Conn_01x04_Pin,
+6,"R15,R29,R19,R32,R30,R16,R26,R27,R34,R25,R31,R18,R33,R28,R20",R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,15,R,
+13,"R1,R5,R9,R7,R11,R13,R21,R3",R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,8,1k,@home
+15,"R12,R22,R8,R2,R14,R10,R17,R6,R4",R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,9,4k7,
+21,R24,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1,2k2,@home
+27,R23,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,1,3k3,@home
+25,U5V+1,SIP3_11.6x8.5mm,1,R-78E5.0-1.0,https://www.digikey.at/en/products/detail/recom-power/R-78E5-0-1-0/4930585?s=N4IgTCBcDaIEoFoDsAOAogVgHQAYEEZcQBdAXyA
+26,U3V3+1,SIP3_11.6x8.5mm,1,R-78E3.3-1.0,https://www.digikey.at/en/products/detail/recom-power/R-78E3-3-1-0/5327711?s=N4IgTCBcDaIEoFoDsAOAogZgHQYQRiwAYQBdAXyA
+5,"U1,U2,U4,U6,U3,U5,U10,U7",SMDIP-4_W9.53mm,8,LTV-817S,@home
+2,"U8,U9",SOIC-8_3.9x4.9mm_P1.27mm,2,LM358,https://www.digikey.at/en/products/detail/stmicroelectronics/LM358DT/591693
+20,J1,TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal,1,Conn_01x02,https://www.digikey.at/en/products/detail/phoenix-contact/1984617/950849
+28,RV1,TRIM_3296W-1-332LF,1,R_Potentiometer,https://www.digikey.at/en/products/detail/bourns-inc/3296W-1-332LF/2535924
+1,Q1,TSOT-23_HandSoldering,1,NPN,@home
+9,"UAxisA1,Uy1Axis1,UxAxis1,Uy2Axis1,UzAxis1",TSSOP_QPWRQ1_TEX,5,PTXU0104QPWRQ1,https://www.digikey.at/en/products/detail/texas-instruments/txu0104qpwrq1/14641448
