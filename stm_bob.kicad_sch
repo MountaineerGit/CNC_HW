@@ -2686,7 +2686,7 @@
     (property "Reference" "R17" (at 134.62 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4k7" (at 134.62 144.78 0)
+    (property "Value" "3k3" (at 134.62 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 130.302 143.51 90)
